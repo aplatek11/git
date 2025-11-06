@@ -9,9 +9,9 @@
 * When finished:
     * Open BASH in the terminal
     * Run the commands:
-        * git check out -b <branch name>
+        * git check out -b -branch name-
         * git add . (make sure to be at the top folder)
-        * git commit -m "<input comment here>"
+        * git commit -m " -input comment here-"
 * Publish Branch
 * Create Pull Request
 * Merge the Branch
